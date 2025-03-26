@@ -1,3 +1,3 @@
 print("Wijerathna")
 print("239225")
-print("Wayamba Universityof Sri Lanka")
+print("Wayamba University of Sri Lanka")
